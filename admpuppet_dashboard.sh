@@ -4,6 +4,7 @@
  Objetivo: Gerenciar a API do Puppet Enterprise.
  O Dashboard do Puppet é utilizado para gerenciar as salas de   aula da 4Linux para preparar o curso no Virtual Box, sendo cada sala composto por um grupo e as variaveis com o valor do curso e período da turma.
  Por Rafael Mendonca.
+ É necessário instalar o comando "dig" para que o script funcione perfeitamente!
  Data: Mon Nov 18 17:07:57 BRST 2013
  Ultimo update: Thu Nov 21 17:47:02 BRST 2013
 
